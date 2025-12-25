@@ -4,6 +4,8 @@
 
 **One API, Better prices, better speed, no subscriptions.**
 
+**一个 API，更优价格，更快速度，无需订阅。**
+
 [![Website](https://img.shields.io/badge/Website-ofox.ai-blue?style=flat-square)](https://ofox.ai)
 [![Community](https://img.shields.io/badge/Community-Join%20Us-green?style=flat-square)](https://github.com/ofoxai/community/discussions)
 [![Twitter](https://img.shields.io/badge/Twitter-@ofox__ai-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ofox_ai)
@@ -15,15 +17,17 @@
 
 ## 🚀 What is Ofox AI?
 
-Ofox AI is a **unified LLM Gateway** that provides seamless access to multiple AI providers through a single API. We help developers and businesses integrate AI capabilities without vendor lock-in.
+Ofox AI is a **unified LLM Gateway** that provides seamless access to multiple AI providers through a single API.
 
 ### ✨ Key Features
 
-- **🔗 Single API** — Access OpenAI, Anthropic, Google, and more through one unified interface
-- **💰 Cost Optimization** — Intelligent routing for best price-performance ratio
-- **⚡ High Performance** — Low latency with global edge deployment
-- **📊 Full Observability** — Real-time usage analytics and monitoring
-- **🔒 Enterprise Security** — SOC2 compliant with end-to-end encryption
+| Feature | Description |
+|---------|-------------|
+| 🔗 **Single API** | Access OpenAI, Anthropic, Google, and more |
+| 💰 **Cost Optimization** | Intelligent routing for best price-performance |
+| ⚡ **High Performance** | Low latency with global edge deployment |
+| 📊 **Full Observability** | Real-time usage analytics and monitoring |
+| 🔒 **Enterprise Security** | SOC2 compliant with end-to-end encryption |
 
 ---
 
@@ -31,33 +35,35 @@ Ofox AI is a **unified LLM Gateway** that provides seamless access to multiple A
 
 | Layer | Technology |
 |-------|------------|
-| **Gateway** | Go, High-performance routing |
+| **Gateway** | Go |
 | **Console** | Next.js 16, React 19, TypeScript |
 | **Database** | PostgreSQL, Drizzle ORM |
-| **Cache** | Valkey (Redis-compatible) |
+| **Cache** | Valkey |
 | **Auth** | Better-Auth |
 
 ---
 
 ## 💬 Community
 
-Join our community to discuss ideas, get help, and share feedback:
+Join our community for discussions, feedback, and support:
 
-- 📢 [Discussions](https://github.com/ofoxai/community/discussions) — Ask questions, share ideas
-- 🐛 [Issues](https://github.com/ofoxai/community/issues) — Report bugs, request features
-- 🐦 [Twitter](https://twitter.com/ofox_ai) — Follow for updates
+[![Community](https://img.shields.io/badge/💬_Community-Join_Discussions-green?style=for-the-badge)](https://github.com/ofoxai/community/discussions)
+
+- 🇺🇸 English
+- 🇨🇳 中文
+- 🇯🇵 日本語
 
 ---
 
 ## 📍 Location
 
-**Singapore** 🇸🇬 — Serving developers worldwide
+**Singapore** 🇸🇬
 
 ---
 
 <div align="center">
 
-**[Get Started](https://ofox.ai)** · **[Documentation](https://docs.ofox.ai)** · **[Status](https://status.ofox.ai)**
+**[Get Started](https://ofox.ai)** · **[Docs](https://docs.ofox.ai)** · **[Status](https://status.ofox.ai)**
 
 </div>
 
