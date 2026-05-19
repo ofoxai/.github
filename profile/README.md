@@ -22,7 +22,7 @@
     <td align="center" width="50%">
       <a href="https://ofox.io"><img src="https://img.shields.io/badge/ofox.io-1F2328?style=for-the-badge" alt="ofox.io"/></a>
       <br/>
-      <sub><b>China Mirror</b> · 中国镜像</sub>
+      <sub><b>China Mirror</b> · 中国站</sub>
     </td>
   </tr>
 </table>
