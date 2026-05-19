@@ -16,17 +16,17 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://ofox.ai">
-        <img src="https://img.shields.io/badge/-ofox.ai-1f1f20?style=for-the-badge&logoWidth=20&labelColor=1f1f20" alt="ofox.ai" height="48"/>
+        <img src="https://img.shields.io/badge/-ofox.ai-c9694a?style=for-the-badge&logoWidth=20&labelColor=c9694a" alt="ofox.ai" height="48"/>
       </a>
       <br/><br/>
-      <b>🌐 Global · 国际站</b>
+      <nobr><b>🌐 Global · 国际站</b></nobr>
     </td>
     <td align="center" width="50%">
       <a href="https://ofox.io">
-        <img src="https://img.shields.io/badge/-ofox.io-c9694a?style=for-the-badge&logoWidth=20&labelColor=c9694a" alt="ofox.io" height="48"/>
+        <img src="https://img.shields.io/badge/-ofox.io-e3dfd7?style=for-the-badge&logoWidth=20&labelColor=e3dfd7" alt="ofox.io" height="48"/>
       </a>
       <br/><br/>
-      <b>🇭🇰&nbsp;HK&nbsp;Mirror&nbsp;·&nbsp;香港站</b>
+      <nobr><b>🇭🇰 HK Mirror · 香港站</b></nobr>
     </td>
   </tr>
 </table>
