@@ -106,7 +106,7 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
     </td>
   </tr>
   <tr>
-    <td valign="middle"><b>☁️&nbsp;官方授权上游</b><br/><i>Official Partners</i></td>
+    <td valign="middle"><b>☁️&nbsp;官方授权</b><br/><i>Official Partners</i></td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" height="28"/>
       <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock" height="28"/>
