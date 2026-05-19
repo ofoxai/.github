@@ -27,8 +27,7 @@
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <b>🌐 Global · 国际站</b><br/>
-        <sub>Singapore · 新加坡节点</sub>
+        <b>🌐 Global · 国际站</b>
       </td>
       <td align="center" valign="middle">
         <a href="https://ofox.ai">
@@ -41,8 +40,7 @@
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <b>🇭🇰 HK · 香港站</b><br/>
-        <sub>Hong Kong · 香港节点</sub>
+        <b>🇭🇰 HK · 香港站</b>
       </td>
       <td align="center" valign="middle">
         <a href="https://ofox.io">
