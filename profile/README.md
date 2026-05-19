@@ -67,10 +67,9 @@
 
 - **Three native protocols** — drop-in compatible with OpenAI / Anthropic / Gemini SDKs, no client rewrites
 - **Officially partnered upstreams** — direct contracts with Azure, AWS Bedrock, Google Vertex, Anthropic, OpenAI
-- **Pay-as-you-go** — no subscriptions, 100+ models on one balance
+- **Pay-as-you-go** — no subscriptions, 100+ models behind one API key
 - **Enterprise-ready** — multi-member teams, role-based permissions, encrypted API key storage
 - **Real-time dashboards** — usage, cost, and per-request analytics out of the box
-- **Production hardened** — multi-provider failover, structured error mapping, OpenAPI-spec'd
 
 Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.ofox.ai](https://docs.ofox.ai)**
 
@@ -84,7 +83,7 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 
 - **三协议原生支持** — OpenAI / Anthropic / Gemini 三套官方 SDK 直接兼容，已有代码零改动
 - **官方云厂商合作** — Azure / AWS / Google / Anthropic / OpenAI 全部走官方授权通道
-- **零订阅** — 按量付费，100+ 模型一个余额接入
+- **零订阅** — 按量付费，100+ 模型一个 API Key 接入
 - **多成员团队管理** — 角色权限分配，API Key 加密存储
 - **实时数据看板** — 用量、费用、请求明细全链路可视化
 
