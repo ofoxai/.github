@@ -10,26 +10,24 @@
 
 ---
 
-### 🌍 Choose your region / 选择接入区域
+### 🌐 Access OfoxAI / 访问 OfoxAI
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🌐 Global</h3>
-      <a href="https://app.ofox.ai"><img src="https://img.shields.io/badge/app.ofox.ai-000?style=for-the-badge" alt="Global"/></a>
+      <a href="https://ofox.ai"><img src="https://img.shields.io/badge/ofox.ai-000000?style=for-the-badge" alt="ofox.ai"/></a>
       <br/>
-      <sub>Singapore · 中国大陆外推荐</sub>
+      <sub><b>Global</b> · 国际站</sub>
     </td>
     <td align="center" width="50%">
-      <h3>🇨🇳 China Mainland</h3>
-      <a href="https://app.ofox.io"><img src="https://img.shields.io/badge/app.ofox.io-D43F3F?style=for-the-badge" alt="China"/></a>
+      <a href="https://ofox.io"><img src="https://img.shields.io/badge/ofox.io-1F2328?style=for-the-badge" alt="ofox.io"/></a>
       <br/>
-      <sub>Hong Kong edge · 中国大陆直连</sub>
+      <sub><b>HK Mirror</b> · 香港站</sub>
     </td>
   </tr>
 </table>
 
-**🇺🇸 English** | **🇨🇳 中文**
+**English** | **中文**
 
 </div>
 
@@ -47,6 +45,7 @@
 - **Enterprise-ready** — multi-member teams, role-based permissions, encrypted API key storage
 - **Real-time dashboards** — usage, cost, and per-request analytics out of the box
 - **Production hardened** — multi-provider failover, structured error mapping, OpenAPI-spec'd
+- **Two domains, one platform** — primary `ofox.ai`, mirror `ofox.io` for resilience
 
 ### Quick Start
 
@@ -73,23 +72,24 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 
 ---
 
-## 🇨🇳 中文（中国大陆开发者）
+## 🇨🇳 中文
 
 **企业级 LLM 网关 — 一个统一入口接入 OpenAI / Anthropic / Google Gemini / Mistral / DeepSeek / 通义千问 等 100+ 模型。**
 
 - **三协议原生支持** — OpenAI / Anthropic / Gemini 三套官方 SDK 直接兼容，已有代码零改动
 - **官方云厂商合作** — Azure / AWS / Google / Anthropic / Mistral 全部走官方授权通道
-- **国内直连** — 香港边缘节点，无需翻墙，延迟 < 80ms
 - **零订阅** — 按量付费，最低充值 $1，余额永不过期
 - **多成员团队管理** — 角色权限分配，API Key 加密存储
 - **实时数据看板** — 用量、费用、请求明细全链路可视化
+- **双域容灾** — 主站 `ofox.ai`，镜像站 `ofox.io`，任一可用即可访问
 
 ### 快速接入
 
 ```bash
 # 任何兼容 OpenAI 协议的 SDK 都可以
 export OPENAI_API_KEY="sk-ofox-..."
-export OPENAI_BASE_URL="https://api.ofox.io/v1"   # 国内入口
+export OPENAI_BASE_URL="https://api.ofox.ai/v1"
+# 或使用镜像站: https://api.ofox.io/v1
 ```
 
 ```python
@@ -103,7 +103,7 @@ resp = client.chat.completions.create(
 print(resp.choices[0].message.content)
 ```
 
-注册领取 API Key → **[app.ofox.io](https://app.ofox.io)** · 开发文档 → **[docs.ofox.io](https://docs.ofox.io)**
+注册领取 API Key → **[app.ofox.ai](https://app.ofox.ai)** · 开发文档 → **[docs.ofox.ai](https://docs.ofox.ai)**
 
 <br/>
 
@@ -111,7 +111,7 @@ print(resp.choices[0].message.content)
 
 ## 🔌 SDK 兼容矩阵 / SDK Compatibility
 
-| Protocol | Endpoint (Global) | Endpoint (China) | One-line change |
+| Protocol | Endpoint (Primary) | Endpoint (Mirror) | One-line change |
 |---|---|---|---|
 | **OpenAI** | `https://api.ofox.ai/v1` | `https://api.ofox.io/v1` | `base_url=` |
 | **Anthropic** | `https://api.ofox.ai/anthropic` | `https://api.ofox.io/anthropic` | `base_url=` |
