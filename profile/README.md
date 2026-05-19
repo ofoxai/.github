@@ -2,7 +2,7 @@
 
 # 🦊 Ofox AI
 
-### Enterprise-grade LLM Gateway · 企业级 LLM 网关
+### 3 Minutes to All LLMs · 3 分钟，接入世界模型
 
 [![Docs](https://img.shields.io/badge/Docs-1f1f20?style=for-the-badge)](https://docs.ofox.ai)
 [![Community](https://img.shields.io/badge/Community-c9694a?style=for-the-badge)](https://github.com/ofoxai/community)
@@ -51,25 +51,6 @@
 - **Production hardened** — multi-provider failover, structured error mapping, OpenAPI-spec'd
 - **Two domains, one platform** — primary `ofox.ai`, mirror `ofox.io` for resilience
 
-### Quick Start
-
-```bash
-# Use any OpenAI-compatible SDK
-export OPENAI_API_KEY="sk-ofox-..."
-export OPENAI_BASE_URL="https://api.ofox.ai/v1"
-```
-
-```python
-from openai import OpenAI
-
-client = OpenAI()  # picks up the env vars above
-resp = client.chat.completions.create(
-    model="anthropic/claude-sonnet-4.5",   # any provider, one API
-    messages=[{"role": "user", "content": "Hello!"}],
-)
-print(resp.choices[0].message.content)
-```
-
 Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.ofox.ai](https://docs.ofox.ai)**
 
 <br/>
@@ -86,26 +67,6 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 - **多成员团队管理** — 角色权限分配，API Key 加密存储
 - **实时数据看板** — 用量、费用、请求明细全链路可视化
 - **双域容灾** — 主站 `ofox.ai`，镜像站 `ofox.io`，任一可用即可访问
-
-### 快速接入
-
-```bash
-# 任何兼容 OpenAI 协议的 SDK 都可以
-export OPENAI_API_KEY="sk-ofox-..."
-export OPENAI_BASE_URL="https://api.ofox.ai/v1"
-# 或使用镜像站: https://api.ofox.io/v1
-```
-
-```python
-from openai import OpenAI
-
-client = OpenAI()  # 自动读取上面的环境变量
-resp = client.chat.completions.create(
-    model="anthropic/claude-sonnet-4.5",   # 任意上游, 统一 API
-    messages=[{"role": "user", "content": "你好!"}],
-)
-print(resp.choices[0].message.content)
-```
 
 注册领取 API Key → **[app.ofox.ai](https://app.ofox.ai)** · 开发文档 → **[docs.ofox.ai](https://docs.ofox.ai)**
 
