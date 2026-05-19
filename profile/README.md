@@ -8,7 +8,7 @@
 [![Community](https://img.shields.io/badge/Community-c9694a?style=for-the-badge)](https://github.com/ofoxai/community)
 [![Status](https://img.shields.io/badge/Status-d98b70?style=for-the-badge)](https://status.ofox.ai)
 
-**English** | **中文**
+**English** | **中文** | **Русский**
 
 </div>
 
