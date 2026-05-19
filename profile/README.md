@@ -74,15 +74,15 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 
 ---
 
-## 🔌 SDK 兼容矩阵 / SDK Compatibility
+## 🔌 Just change `base_url` · 改一行 `base_url`
 
-| Protocol | Endpoint (Primary) | Endpoint (Mirror) | One-line change |
-|---|---|---|---|
-| **OpenAI** | `https://api.ofox.ai/v1` | `https://api.ofox.io/v1` | `base_url=` |
-| **Anthropic** | `https://api.ofox.ai/anthropic` | `https://api.ofox.io/anthropic` | `base_url=` |
-| **Gemini** | `https://api.ofox.ai/gemini` | `https://api.ofox.io/gemini` | `base_url=` |
+| Protocol | Primary | Mirror |
+|---|---|---|
+| **OpenAI** | `https://api.ofox.ai/v1` | `https://api.ofox.io/v1` |
+| **Anthropic** | `https://api.ofox.ai/anthropic` | `https://api.ofox.io/anthropic` |
+| **Gemini** | `https://api.ofox.ai/gemini` | `https://api.ofox.io/gemini` |
 
-Works with: `openai`, `anthropic`, `@google/generative-ai`, `langchain`, `llamaindex`, `vercel/ai`, `cursor`, `cherry-studio`, `claude-code`, `gemini-cli`, `openclaw`, and anything that respects `OPENAI_BASE_URL`.
+Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox.ai/docs/integrations) · [**集成文档**](https://ofox.ai/zh/docs/integrations).
 
 <br/>
 
