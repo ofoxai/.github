@@ -182,4 +182,8 @@ Works with: `openai`, `anthropic`, `@google/generative-ai`, `langchain`, `llamai
 
 <sub>🦊 Built for developers and teams who ship.</sub>
 
+<br/><br/>
+
+<sub>© NICE TALK PTE. LTD. · Singapore · UEN registered</sub>
+
 </div>
