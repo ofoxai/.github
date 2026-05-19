@@ -4,10 +4,10 @@
 
 ### 3 Minutes to All LLMs · 3 分钟，接入世界模型
 
-[![Docs](https://img.shields.io/badge/Docs-1f1f20?style=for-the-badge)](https://docs.ofox.ai)
+[![Docs](https://img.shields.io/badge/Docs-1f1f20?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.ofox.ai)
 [![X](https://img.shields.io/badge/X-1f1f20?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ooffooxx)
 [![Discord](https://img.shields.io/badge/Discord-c9694a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/matyehbery)
-[![Status](https://img.shields.io/badge/Status-d98b70?style=for-the-badge)](https://status.ofox.ai)
+[![Status](https://img.shields.io/badge/Status-d98b70?style=for-the-badge&logo=statuspage&logoColor=white)](https://status.ofox.ai)
 
 **English** | **中文** | **Русский**
 
