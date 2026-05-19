@@ -4,25 +4,29 @@
 
 ### Enterprise-grade LLM Gateway · 企业级 LLM 网关
 
-[![Docs](https://img.shields.io/badge/Docs-blue?style=for-the-badge)](https://docs.ofox.ai)
-[![Community](https://img.shields.io/badge/Community-green?style=for-the-badge)](https://github.com/ofoxai/community)
-[![Status](https://img.shields.io/badge/Status-orange?style=for-the-badge)](https://status.ofox.ai)
+[![Docs](https://img.shields.io/badge/Docs-1f1f20?style=for-the-badge)](https://docs.ofox.ai)
+[![Community](https://img.shields.io/badge/Community-c9694a?style=for-the-badge)](https://github.com/ofoxai/community)
+[![Status](https://img.shields.io/badge/Status-d98b70?style=for-the-badge)](https://status.ofox.ai)
 
 ---
 
 ### 🌐 Access OfoxAI / 访问 OfoxAI
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://ofox.ai"><img src="https://img.shields.io/badge/ofox.ai-000000?style=for-the-badge" alt="ofox.ai"/></a>
-      <br/>
-      <sub><b>Global</b> · 国际站</sub>
+      <a href="https://ofox.ai">
+        <img src="https://img.shields.io/badge/-ofox.ai-1f1f20?style=for-the-badge&logoWidth=20&labelColor=1f1f20" alt="ofox.ai" height="48"/>
+      </a>
+      <br/><br/>
+      <b>🌐 Global · 国际站</b>
     </td>
     <td align="center" width="50%">
-      <a href="https://ofox.io"><img src="https://img.shields.io/badge/ofox.io-1F2328?style=for-the-badge" alt="ofox.io"/></a>
-      <br/>
-      <sub><b>HK Mirror</b> · 香港站</sub>
+      <a href="https://ofox.io">
+        <img src="https://img.shields.io/badge/-ofox.io-c9694a?style=for-the-badge&logoWidth=20&labelColor=c9694a" alt="ofox.io" height="48"/>
+      </a>
+      <br/><br/>
+      <b>🇭🇰&nbsp;HK&nbsp;Mirror&nbsp;·&nbsp;香港站</b>
     </td>
   </tr>
 </table>
