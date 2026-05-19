@@ -146,7 +146,7 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
 <table align="center">
   <tr>
     <td width="240" valign="middle"><b>🤝&nbsp;官方云厂商合作</b></td>
-    <td width="640" valign="middle">Azure · AWS Bedrock · Google Vertex · Anthropic · OpenAI 等官方授权通道，无中间分销</td>
+    <td width="640" valign="middle">Azure · AWS Bedrock · Google Vertex · Anthropic · OpenAI 等官方授权通道</td>
   </tr>
   <tr>
     <td valign="middle"><b>👥&nbsp;多成员团队管理</b></td>
