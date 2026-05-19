@@ -18,19 +18,30 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <a href="https://ofox.ai">
         <img src="https://img.shields.io/badge/-ofox.ai-c9694a?style=for-the-badge&logoWidth=20&labelColor=c9694a" alt="ofox.ai" height="48"/>
       </a>
       <br/><br/>
       <b>🌐 Global · 国际站</b>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <a href="https://ofox.io">
         <img src="https://img.shields.io/badge/-ofox.io-e3dfd7?style=for-the-badge&logoWidth=20&labelColor=e3dfd7" alt="ofox.io" height="48"/>
       </a>
       <br/><br/>
       <b>🇭🇰 HK · 香港站</b>
+    </td>
+    <td align="left" width="40%" valign="middle">
+      <sub>
+        <b>🌍 国际开发者 / Global developers</b><br/>
+        推荐使用 <code>ofox.ai</code>（新加坡节点）<br/>
+        <br/>
+        <b>🇭🇰 中国开发者 / China developers</b><br/>
+        推荐使用 <code>ofox.io</code>（香港节点）<br/>
+        <br/>
+        <i>同账号 · 同 API Key · 同计费余额</i>
+      </sub>
     </td>
   </tr>
 </table>
