@@ -8,9 +8,13 @@
 [![Community](https://img.shields.io/badge/Community-c9694a?style=for-the-badge)](https://github.com/ofoxai/community)
 [![Status](https://img.shields.io/badge/Status-d98b70?style=for-the-badge)](https://status.ofox.ai)
 
+**English** | **中文**
+
+</div>
+
 ---
 
-### 🌐 Access OfoxAI / 访问 OfoxAI
+<h3 align="center">🌐 Access OfoxAI / 访问 OfoxAI</h3>
 
 <table width="100%">
   <tr>
@@ -31,10 +35,6 @@
   </tr>
 </table>
 
-**English** | **中文**
-
-</div>
-
 <br/>
 
 ---
@@ -49,7 +49,6 @@
 - **Enterprise-ready** — multi-member teams, role-based permissions, encrypted API key storage
 - **Real-time dashboards** — usage, cost, and per-request analytics out of the box
 - **Production hardened** — multi-provider failover, structured error mapping, OpenAPI-spec'd
-- **Two domains, one platform** — primary `ofox.ai`, mirror `ofox.io` for resilience
 
 Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.ofox.ai](https://docs.ofox.ai)**
 
@@ -66,7 +65,6 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 - **零订阅** — 按量付费，最低充值 $1，余额永不过期
 - **多成员团队管理** — 角色权限分配，API Key 加密存储
 - **实时数据看板** — 用量、费用、请求明细全链路可视化
-- **双域容灾** — 主站 `ofox.ai`，镜像站 `ofox.io`，任一可用即可访问
 
 注册领取 API Key → **[app.ofox.ai](https://app.ofox.ai)** · 开发文档 → **[docs.ofox.ai](https://docs.ofox.ai)**
 
@@ -96,7 +94,13 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 &nbsp;
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral" height="32"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MiniMax-F75D34?style=for-the-badge" alt="MiniMax" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Z.ai-3B82F6?style=for-the-badge" alt="Z.ai" height="32"/>
 
 <sub><b>官方云厂商合作 / Official upstream partners</b></sub>
 
@@ -118,23 +122,11 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
 
 <h2 align="center">🏢 团队为什么选择 OfoxAI</h2>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
-
-### 🤝 官方云厂商合作
-
-  </td>
-    <td align="center" width="33%">
-
-### 👥 多成员团队管理
-
-  </td>
-    <td align="center" width="33%">
-
-### 📊 实时数据看板
-
-  </td>
+    <td align="center" width="33%"><h3>🤝&nbsp;官方云厂商合作</h3></td>
+    <td align="center" width="33%"><h3>👥&nbsp;多成员团队管理</h3></td>
+    <td align="center" width="33%"><h3>📊&nbsp;实时数据看板</h3></td>
   </tr>
 </table>
 
