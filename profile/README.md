@@ -63,10 +63,10 @@
 
 ## 🇺🇸 English
 
-**One unified gateway for OpenAI, Anthropic, Google Gemini, Mistral, DeepSeek, Qwen, and 100+ more models.**
+**One unified gateway for OpenAI, Anthropic, Google Gemini, DeepSeek, Qwen, MiniMax, Z.ai, and 100+ more models.**
 
 - **Three native protocols** — drop-in compatible with OpenAI / Anthropic / Gemini SDKs, no client rewrites
-- **Officially partnered upstreams** — direct contracts with Azure OpenAI, AWS Bedrock, Google Vertex, Anthropic, Mistral
+- **Officially partnered upstreams** — direct contracts with Azure, AWS Bedrock, Google Vertex, Anthropic, OpenAI
 - **Enterprise-ready** — multi-member teams, role-based permissions, encrypted API key storage
 - **Real-time dashboards** — usage, cost, and per-request analytics out of the box
 - **Production hardened** — multi-provider failover, structured error mapping, OpenAPI-spec'd
@@ -79,10 +79,10 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 
 ## 🇨🇳 中文
 
-**企业级 LLM 网关 — 一个统一入口接入 OpenAI / Anthropic / Google Gemini / Mistral / DeepSeek / 通义千问 等 100+ 模型。**
+**企业级 LLM 网关 — 一个统一入口接入 OpenAI / Anthropic / Google Gemini / DeepSeek / 通义千问 / MiniMax / Z.ai 等 100+ 模型。**
 
 - **三协议原生支持** — OpenAI / Anthropic / Gemini 三套官方 SDK 直接兼容，已有代码零改动
-- **官方云厂商合作** — Azure / AWS / Google / Anthropic / Mistral 全部走官方授权通道
+- **官方云厂商合作** — Azure / AWS / Google / Anthropic / OpenAI 全部走官方授权通道
 - **多成员团队管理** — 角色权限分配，API Key 加密存储
 - **实时数据看板** — 用量、费用、请求明细全链路可视化
 
