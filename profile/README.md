@@ -145,18 +145,18 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
 
 <h2 align="center">🏢 团队为什么选择 OfoxAI</h2>
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="30%" valign="middle"><h3>🤝&nbsp;官方云厂商合作</h3></td>
-    <td valign="middle"><sub>Azure · AWS Bedrock · Google Vertex · Anthropic · OpenAI 等官方授权通道，无中间分销</sub></td>
+    <td width="240" valign="middle"><b>🤝&nbsp;官方云厂商合作</b></td>
+    <td width="640" valign="middle">Azure · AWS Bedrock · Google Vertex · Anthropic · OpenAI 等官方授权通道，无中间分销</td>
   </tr>
   <tr>
-    <td width="30%" valign="middle"><h3>👥&nbsp;多成员团队管理</h3></td>
-    <td valign="middle"><sub>角色权限分配，API Key 加密存储，审计追踪</sub></td>
+    <td valign="middle"><b>👥&nbsp;多成员团队管理</b></td>
+    <td valign="middle">角色权限分配，API Key 加密存储，审计追踪</td>
   </tr>
   <tr>
-    <td width="30%" valign="middle"><h3>📊&nbsp;实时数据看板</h3></td>
-    <td valign="middle"><sub>用量、费用、请求明细全链路可视化</sub></td>
+    <td valign="middle"><b>📊&nbsp;实时数据看板</b></td>
+    <td valign="middle">用量、费用、请求明细全链路可视化</td>
   </tr>
 </table>
 
@@ -164,14 +164,13 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
 
 ---
 
-<div align="center">
+<p align="center">
+  <b>Singapore 🇸🇬</b>&nbsp;·&nbsp;
+  <a href="https://x.com/ooffooxx">𝕏 @ooffooxx</a>&nbsp;·&nbsp;
+  <a href="https://discord.gg/matyehbery">Discord</a>&nbsp;·&nbsp;
+  <a href="mailto:hi@ofox.ai">hi@ofox.ai</a>
+</p>
 
-**Singapore 🇸🇬** · [𝕏 @ooffooxx](https://x.com/ooffooxx) · [Discord](https://discord.gg/matyehbery) · [hi@ofox.ai](mailto:hi@ofox.ai)
+<p align="center">🦊 <i>Built for developers and teams who ship.</i></p>
 
-<sub>🦊 Built for developers and teams who ship.</sub>
-
-<br/><br/>
-
-<sub>© NICE TALK PTE. LTD. · Singapore · UEN registered</sub>
-
-</div>
+<p align="center">© NICE TALK PTE. LTD. · Singapore · UEN registered</p>
