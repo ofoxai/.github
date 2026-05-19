@@ -55,7 +55,7 @@
   </tbody>
 </table>
 
-<p align="center"><sub><i>Same account · Same API key · Same balance · 同账号 · 同 API Key · 同计费余额</i></sub></p>
+<p align="center"><i>Same account · Same API key · Same balance · 同账号 · 同 API Key · 同计费余额</i></p>
 
 <br/>
 
