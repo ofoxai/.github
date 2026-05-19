@@ -17,12 +17,12 @@
     <td align="center" width="50%">
       <a href="https://ofox.ai"><img src="https://img.shields.io/badge/ofox.ai-000000?style=for-the-badge" alt="ofox.ai"/></a>
       <br/>
-      <sub><b>Global</b> · 主站</sub>
+      <sub><b>Global</b> · 全球站</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://ofox.io"><img src="https://img.shields.io/badge/ofox.io-1F2328?style=for-the-badge" alt="ofox.io"/></a>
       <br/>
-      <sub><b>China Mirror</b> · 中国站</sub>
+      <sub><b>HK Mirror</b> · 香港站</sub>
     </td>
   </tr>
 </table>
