@@ -74,7 +74,7 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 
 ---
 
-## 🔌 Just change `base_url` · 改一行 `base_url`
+## 🔌 OpenAI / Anthropic / Gemini 协议支持，官方模型供应
 
 | Protocol | Primary | Mirror |
 |---|---|---|
