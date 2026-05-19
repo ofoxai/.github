@@ -135,9 +135,16 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
 
 <table width="100%">
   <tr>
-    <td align="center" width="33%"><h3>🤝&nbsp;官方云厂商合作</h3></td>
-    <td align="center" width="33%"><h3>👥&nbsp;多成员团队管理</h3></td>
-    <td align="center" width="33%"><h3>📊&nbsp;实时数据看板</h3></td>
+    <td width="30%" valign="middle"><h3>🤝&nbsp;官方云厂商合作</h3></td>
+    <td valign="middle"><sub>Azure · AWS Bedrock · Google Vertex · Anthropic · OpenAI 等官方授权通道，无中间分销</sub></td>
+  </tr>
+  <tr>
+    <td width="30%" valign="middle"><h3>👥&nbsp;多成员团队管理</h3></td>
+    <td valign="middle"><sub>角色权限分配，API Key 加密存储，审计追踪</sub></td>
+  </tr>
+  <tr>
+    <td width="30%" valign="middle"><h3>📊&nbsp;实时数据看板</h3></td>
+    <td valign="middle"><sub>用量、费用、请求明细全链路可视化</sub></td>
   </tr>
 </table>
 
