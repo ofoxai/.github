@@ -14,37 +14,49 @@
 
 ---
 
-<h3 align="center">🌐 Access OfoxAI / 访问 OfoxAI</h3>
+<h2 align="center">🌐 Access OfoxAI · 访问 OfoxAI</h2>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="30%">
-      <a href="https://ofox.ai">
-        <img src="https://img.shields.io/badge/-ofox.ai-c9694a?style=for-the-badge&logoWidth=20&labelColor=c9694a" alt="ofox.ai" height="48"/>
-      </a>
-      <br/><br/>
-      <b>🌐 Global · 国际站</b>
-    </td>
-    <td align="center" width="30%">
-      <a href="https://ofox.io">
-        <img src="https://img.shields.io/badge/-ofox.io-e3dfd7?style=for-the-badge&logoWidth=20&labelColor=e3dfd7" alt="ofox.io" height="48"/>
-      </a>
-      <br/><br/>
-      <b>🇭🇰 HK · 香港站</b>
-    </td>
-    <td align="left" width="40%" valign="middle">
-      <sub>
-        <b>🌍 国际开发者 / Global developers</b><br/>
-        推荐使用 <code>ofox.ai</code>（新加坡节点）<br/>
-        <br/>
-        <b>🇭🇰 中国开发者 / China developers</b><br/>
-        推荐使用 <code>ofox.io</code>（香港节点）<br/>
-        <br/>
-        <i>同账号 · 同 API Key · 同计费余额</i>
-      </sub>
-    </td>
-  </tr>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center" width="220">Region · 区域</th>
+      <th align="center" width="280">Domain · 域名</th>
+      <th align="center" width="260">Recommended for · 推荐使用</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <b>🌐 Global · 国际站</b><br/>
+        <sub>Singapore · 新加坡节点</sub>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://ofox.ai">
+          <img src="https://img.shields.io/badge/-ofox.ai-c9694a?style=for-the-badge&labelColor=c9694a" alt="ofox.ai" height="36"/>
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        Global developers<br/>国际开发者
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <b>🇭🇰 HK · 香港站</b><br/>
+        <sub>Hong Kong · 香港节点</sub>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://ofox.io">
+          <img src="https://img.shields.io/badge/-ofox.io-e3dfd7?style=for-the-badge&labelColor=e3dfd7" alt="ofox.io" height="36"/>
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        China developers<br/>中国开发者
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+<p align="center"><sub><i>Same account · Same API key · Same balance · 同账号 · 同 API Key · 同计费余额</i></sub></p>
 
 <br/>
 
