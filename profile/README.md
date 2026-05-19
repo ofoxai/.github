@@ -142,7 +142,7 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
   </tr>
   <tr>
     <td valign="middle"><b>👥&nbsp;多成员团队管理</b></td>
-    <td valign="middle">角色权限分配，API Key 加密存储，审计追踪</td>
+    <td valign="middle">角色权限分配，成员预算管理，API Key 加密存储，审计追踪</td>
   </tr>
   <tr>
     <td valign="middle"><b>📊&nbsp;实时数据看板</b></td>
