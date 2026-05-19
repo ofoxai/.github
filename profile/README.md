@@ -116,51 +116,18 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
 
 ---
 
-## 🏢 Why teams choose OfoxAI / 团队为什么选择 OfoxAI
+## 🏢 团队为什么选择 OfoxAI
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h4>🤝 Official upstream partners</h4>
-      <sub><b>官方云厂商合作</b></sub><br/>
-      <sub>Azure · AWS Bedrock · Google Vertex · Anthropic · Mistral — direct contracts, no resellers</sub>
+      <h3>🤝 官方云厂商合作</h3>
     </td>
     <td align="center" width="33%">
-      <h4>👥 Team & permissions</h4>
-      <sub><b>多成员团队管理</b></sub><br/>
-      <sub>Role-based access, encrypted API key storage, audit trails</sub>
+      <h3>👥 多成员团队管理</h3>
     </td>
     <td align="center" width="33%">
-      <h4>📊 Real-time analytics</h4>
-      <sub><b>实时数据看板</b></sub><br/>
-      <sub>Per-token cost, latency, request history — all in your dashboard</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 🧭 Resources
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://docs.ofox.ai"><b>📖 Docs</b></a><br/>
-      <sub>API reference · SDK guides · Integrations</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://ofox.ai/pricing"><b>💰 Pricing</b></a><br/>
-      <sub>Per-token billing · Volume discounts</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://status.ofox.ai"><b>📊 Status</b></a><br/>
-      <sub>Real-time uptime · Provider health</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/ofoxai/community"><b>💬 Community</b></a><br/>
-      <sub>Discussions · Bug reports · Feedback</sub>
+      <h3>📊 实时数据看板</h3>
     </td>
   </tr>
 </table>
