@@ -76,6 +76,34 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 
 ## 🔌 OpenAI / Anthropic / Gemini 协议支持，官方模型供应
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="36"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" height="36"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" height="36"/>
+
+<sub><b>三协议原生 / Three native protocols</b></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google%20Vertex-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Vertex" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral" height="32"/>
+
+<sub><b>官方云厂商合作 / Official upstream partners</b></sub>
+
+</div>
+
+<br/>
+
 | Protocol | Primary | Mirror |
 |---|---|---|
 | **OpenAI** | `https://api.ofox.ai/v1` | `https://api.ofox.io/v1` |
