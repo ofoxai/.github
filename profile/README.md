@@ -116,19 +116,25 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
 
 ---
 
-## 🏢 团队为什么选择 OfoxAI
+<h2 align="center">🏢 团队为什么选择 OfoxAI</h2>
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <h3>🤝 官方云厂商合作</h3>
-    </td>
+
+### 🤝 官方云厂商合作
+
+  </td>
     <td align="center" width="33%">
-      <h3>👥 多成员团队管理</h3>
-    </td>
+
+### 👥 多成员团队管理
+
+  </td>
     <td align="center" width="33%">
-      <h3>📊 实时数据看板</h3>
-    </td>
+
+### 📊 实时数据看板
+
+  </td>
   </tr>
 </table>
 
