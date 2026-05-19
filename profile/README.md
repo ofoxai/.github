@@ -144,7 +144,7 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
 
 <div align="center">
 
-**Singapore 🇸🇬** · [@ofox_ai](https://twitter.com/ofox_ai) · [hi@ofox.ai](mailto:hi@ofox.ai)
+**Singapore 🇸🇬** · [𝕏 @ooffooxx](https://x.com/ooffooxx) · [Discord](https://discord.gg/matyehbery) · [hi@ofox.ai](mailto:hi@ofox.ai)
 
 <sub>🦊 Built for developers and teams who ship.</sub>
 
