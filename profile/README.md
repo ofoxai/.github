@@ -93,39 +93,31 @@ Get your API key → **[app.ofox.ai](https://app.ofox.ai)** · Docs → **[docs.
 
 ---
 
-## 🔌 OpenAI / Anthropic / Gemini 协议支持，官方模型供应
+<h2 align="center">🔌 OpenAI / Anthropic / Gemini 协议支持，官方模型供应</h2>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="36"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" height="36"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" height="36"/>
-
-<sub><b>三协议原生 / Three native protocols</b></sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" height="32"/>
-&nbsp;
-<img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock" height="32"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Google%20Vertex-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Vertex" height="32"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" height="32"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="32"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" height="32"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MiniMax-F75D34?style=for-the-badge" alt="MiniMax" height="32"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Z.ai-3B82F6?style=for-the-badge" alt="Z.ai" height="32"/>
-
-<sub><b>官方云厂商合作 / Official upstream partners</b></sub>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="240" valign="middle"><b>🔧&nbsp;三协议原生</b><br/><i>Native protocols</i></td>
+    <td width="640" valign="middle">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="28"/>
+      <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" height="28"/>
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>☁️&nbsp;官方授权上游</b><br/><i>Upstream partners</i></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" height="28"/>
+      <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock" height="28"/>
+      <img src="https://img.shields.io/badge/Vertex-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Vertex" height="28"/>
+      <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" height="28"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="28"/>
+      <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" height="28"/>
+      <img src="https://img.shields.io/badge/MiniMax-F75D34?style=for-the-badge" alt="MiniMax" height="28"/>
+      <img src="https://img.shields.io/badge/Z.ai-3B82F6?style=for-the-badge" alt="Z.ai" height="28"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
