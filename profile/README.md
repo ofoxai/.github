@@ -5,7 +5,7 @@
 ### 3 Minutes to All LLMs · 3 分钟，接入世界模型
 
 [![Docs](https://img.shields.io/badge/Docs-1f1f20?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.ofox.ai)
-[![Discord](https://img.shields.io/badge/Discord-c9694a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/matyehbery)
+[![Discord](https://img.shields.io/badge/Discord-c9694a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/m4vrwQ39nB)
 [![X](https://img.shields.io/badge/-1f1f20?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ooffooxx)
 [![Status](https://img.shields.io/badge/Status-d98b70?style=for-the-badge&logo=statuspage&logoColor=white)](https://status.ofox.ai)
 
@@ -157,7 +157,7 @@ Drop-in for any OpenAI/Anthropic/Gemini SDK. See [**Integrations**](https://ofox
 <p align="center">
   <b>Singapore 🇸🇬</b>&nbsp;·&nbsp;
   <a href="https://x.com/ooffooxx">𝕏 @ooffooxx</a>&nbsp;·&nbsp;
-  <a href="https://discord.gg/matyehbery">Discord</a>&nbsp;·&nbsp;
+  <a href="https://discord.com/invite/m4vrwQ39nB">Discord</a>&nbsp;·&nbsp;
   <a href="mailto:hi@ofox.ai">hi@ofox.ai</a>
 </p>
 
